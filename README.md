@@ -15,3 +15,4 @@ Note:
 - The materials for the theoretical assignments and their solutions can be found in the "Theoretical_Assignments" folder.
 - The materials for the practical assignments using PSpice can be found in the "Practical_Assignments" folder.
 - The materials for the quizzes using PSpice can be found in the "Quiz" folder.
+- The course is instructed in Persian (Farsi) language.
